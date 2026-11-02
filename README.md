@@ -5,3 +5,5 @@ Exploratory analysis and visualization of customer churn using Python, pandas, s
 Month-Month contracts have the highest churn
 one-year and two-year contracts barely churn
 most customers who leave are new, with short tenure.
+## Tools Used
+Python, Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn.
