@@ -6,4 +6,8 @@ Month-Month contracts have the highest churn
 one-year and two-year contracts barely churn
 most customers who leave are new, with short tenure.
 ## Tools Used
-Python, Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn.
+- Python — core programming language.
+- pandas — loading and manipulating the CSV data.
+- Matplotlib and Seaborn — charts and visualizations.
+- scikit-learn — data preprocessing, train/test splitting, Logistic Regression and Random Forest models, and evaluation metrics.
+Python standard library pathlib — locating the dataset file.
