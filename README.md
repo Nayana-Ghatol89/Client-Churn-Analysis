@@ -1,4 +1,5 @@
 # Client-Churn-Analysis
+Exploratory analysis and visualization of customer churn using Python, pandas, seaborn, matplotlib, and scikit-learn.
 ## "Key Findings"
 - Month-Month contracts have the highest churn
 - one-year and two-year contracts barely churn
@@ -10,7 +11,7 @@
 - Trained and compared Logistic Regression and Random Forest models.
 - Evaluated model performance using accuracy, precision, recall, F1 score, a confusion matrix, and ROC/AUC curves.
 - Highlighted the Random Forest model’s top 10 features.
-## Exploratory analysis and visualization of customer churn using Python, pandas, seaborn, matplotlib, and scikit-learn.
+
 ![Churn Overview](Churn-overview.png) 
 
 ![churn Overview1](Churn-overview1.png) 
