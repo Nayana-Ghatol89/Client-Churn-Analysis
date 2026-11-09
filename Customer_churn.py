@@ -151,7 +151,7 @@ for index, metric_name in enumerate(metric_names):
     axes[row, column].set_title(f'{metric_name} Comparison')
     axes[row, column].set_ylabel(metric_name)
     axes[row, column].set_ylim(0, 1)
-    axes[row, column].tick_params(axis='x', rotation=20)
+    axes[row, column].tick_params(axis='x', rotation=0)
     for bar, value in zip(axes[row, column].patches, metrics_df[metric_name]):
         axes[row, column].text(bar.get_x() + bar.get_width() / 2, value + 0.02,
                                f'{value:.2f}', ha='center', va='bottom')
