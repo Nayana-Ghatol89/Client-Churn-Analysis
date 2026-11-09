@@ -2,7 +2,14 @@
 Exploratory analysis and visualization of customer churn using Python, pandas, seaborn, matplotlib, and scikit-learn.
 ![Churn Overview](churn-overview.png) 
 
-![churn Overview](Churn-overview.png) 
+![churn Overview1](Churn-overview1.png) 
+
+![churn Overview2](Churn-overview2.png) 
+
+![churn Overview3](Churn-overview3.png) 
+
+![churn Overview4](Churn-overview4.png) 
+
 ## "Key Findings"
 - Month-Month contracts have the highest churn
 - one-year and two-year contracts barely churn
