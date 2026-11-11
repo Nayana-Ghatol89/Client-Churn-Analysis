@@ -1,5 +1,5 @@
 # Client-Churn-Analysis
-Exploratory analysis and visualization of customer churn using Python, pandas, seaborn, matplotlib, and scikit-learn.
+Exploratory analysis and visualization of customer churn using Python.
 ## Features
 - Analyzed customer data to identify patterns associated with churn.
 - Cleaned the dataset, including handling missing or non-numeric TotalCharges values.
