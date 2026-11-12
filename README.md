@@ -13,7 +13,8 @@ Exploratory analysis and visualization of customer churn using Python.
 - Matplotlib and Seaborn — charts and visualizations.
 - scikit-learn — data preprocessing, train/test splitting, Logistic Regression and Random Forest models, and evaluation metrics.
 - Python standard library pathlib — locating the dataset file.
-  
+
+## Output
 ![Churn Overview](Churn-overview.png) 
 
 ![churn Overview1](Churn-overview1.png) 
