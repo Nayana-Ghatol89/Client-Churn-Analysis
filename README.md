@@ -7,7 +7,13 @@ Exploratory analysis and visualization of customer churn using Python.
 - Trained and compared Logistic Regression and Random Forest models.
 - Evaluated model performance using accuracy, precision, recall, F1 score, a confusion matrix, and ROC/AUC curves.
 - Highlighted the Random Forest model’s top 10 features.
-
+## Tools Used
+- Python — core programming language.
+- pandas — loading and manipulating the CSV data.
+- Matplotlib and Seaborn — charts and visualizations.
+- scikit-learn — data preprocessing, train/test splitting, Logistic Regression and Random Forest models, and evaluation metrics.
+- Python standard library pathlib — locating the dataset file.
+  
 ![Churn Overview](Churn-overview.png) 
 
 ![churn Overview1](Churn-overview1.png) 
@@ -18,9 +24,3 @@ Exploratory analysis and visualization of customer churn using Python.
 
 ![churn Overview4](Churn-overview4.png) 
 
-## Tools Used
-- Python — core programming language.
-- pandas — loading and manipulating the CSV data.
-- Matplotlib and Seaborn — charts and visualizations.
-- scikit-learn — data preprocessing, train/test splitting, Logistic Regression and Random Forest models, and evaluation metrics.
-- Python standard library pathlib — locating the dataset file.
